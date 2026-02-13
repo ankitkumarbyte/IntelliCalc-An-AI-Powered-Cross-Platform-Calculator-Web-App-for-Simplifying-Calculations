@@ -100,6 +100,8 @@ These results were later validated and reported in the published paper.
 
 If you use this project or its ideas in academic work, please cite:
 
+
+
 ```text
 Ankit Kumar et al.,
 "IntelliCalc: An AI-Powered Cross-Platform Calculator Web App for Simplifying Calculations",
